@@ -1,13 +1,13 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qrh9&show_icons=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Qrh9&theme=react-dark)
-![Followers](https://img.shields.io/github/followers/Qrh9?style=social)
-![License](https://img.shields.io/github/license/Qrh9/SaherIQ?color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/Qrh9/SaherIQ?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/Qrh9/SaherIQ?style=social)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kekoviq&show_icons=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kekoviq&theme=react-dark)
+![Followers](https://img.shields.io/github/followers/kekoviq?style=social)
+![License](https://img.shields.io/github/license/kekoviq/BatIQ?color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/kekoviq/BatIQ?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/kekoviq/BatIQ?style=social)
 
 ## المطورين
-<a href="https://github.com/Qrh9/saherAr/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Qrh9/saherAr" />
+<a href="https://github.com/kekoviq/BatAr/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=kekoviq/BatAr" />
 </a>
 
 
@@ -16,7 +16,7 @@
 ##
 
 
-# 🧙‍♂️ سورس الساحر - Telethon 
+#  سورس الخفاش - Telethon 
 
 ## كيفية التنصيب على Heroku
 
@@ -39,7 +39,7 @@
 - قم بإنشاء حساب على [Heroku](https://heroku.com).
 - اضغط على الزر أدناه واتبع التعليمات:
 
-  [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Qrh9/SaherIQ/tree/SHRU)
+  [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/kekoviq/BatIQ/tree/BRUS)
 
 - قم بملء الحقول المطلوبة مثل `TG_BOT_USERNAME` و `STRING_SESSION` و `ALIVE_NAME`.
 - اضغط على **Deploy App**.
